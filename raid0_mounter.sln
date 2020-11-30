@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raid0_mounter", "raid0_mounter\raid0_mounter.vcxproj", "{65AD9D84-766B-4215-9111-6C9922ACE4E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AD9D84-766B-4215-9111-6C9922ACE4E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65AD9D84-766B-4215-9111-6C9922ACE4E1}.Debug|Win32.Build.0 = Debug|Win32
+		{65AD9D84-766B-4215-9111-6C9922ACE4E1}.Release|Win32.ActiveCfg = Release|Win32
+		{65AD9D84-766B-4215-9111-6C9922ACE4E1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A8BD6B-4D34-4FC4-9000-7763BEE25CBE}
+	EndGlobalSection
+EndGlobal
